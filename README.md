@@ -1,7 +1,7 @@
 # Vagrant - or - how to code in your local computer
 
 # Learning Objectives
-At the end of this project, you are expected to be able to [link]("explain to anyone"), **without the help of Google**
+At the end of this project, you are expected to be able to [link](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg "explain to anyone"), **without the help of Google**
 
 ## General
 
